@@ -1,4 +1,4 @@
-# FIRST OF ALL, INTRODUCTION 👋
+## 🙋🏻‍♀️ Introducing myself
 
 <!--
 **Consciousgt/Consciousgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
