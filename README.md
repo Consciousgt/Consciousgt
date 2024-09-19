@@ -1,4 +1,7 @@
 ## 🙋🏻‍♀️ Introducing myself
+![Joshua_Gbadebowale Portfolio Banner (1)](https://github.com/user-attachments/assets/335a62ad-a35c-45cd-8a3f-16f7b3825156)
+
+
 
 <!--
 **Consciousgt/Consciousgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
