@@ -1,6 +1,11 @@
 ## 🙋🏻‍♀️ Introducing myself
 ![Joshua_Gbadebowale Portfolio Banner (1)](https://github.com/user-attachments/assets/335a62ad-a35c-45cd-8a3f-16f7b3825156)
+Hello, I'm Joshua. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Tableau and Looker Studio.
+- Data analysis and reporting using Google Sheets and Excel.
 
 
 <!--
