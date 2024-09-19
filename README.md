@@ -11,15 +11,18 @@ I use data to create solutions for businesses and organizations. I’m looking t
 
 
 📚 Projects
+
 Welcome to my portfolio, where I showcase my projects.
 
-🛠️ Tools
-Language: SQL, Python
-Database: Google BigQuery, PostgreSQL, MySQL
-Visualization: Tableau, PowerBI, and Looker Studio
+🛠️ Tools:
+
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, PowerBI, and Looker Studio
 
 👋🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/consciousgt/))
+
+- [Linkedin](https://www.linkedin.com/in/consciousgt/)
 - Hire me on [Upwork](https://www.upwork.com/freelancers/~014e5345d0210dd749?mp_source=share)
 
 
